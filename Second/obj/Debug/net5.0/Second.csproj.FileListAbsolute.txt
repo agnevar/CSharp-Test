@@ -1,0 +1,16 @@
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.csprojAssemblyReference.cache
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.AssemblyInfoInputs.cache
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.AssemblyInfo.cs
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.csproj.CoreCompileInputs.cache
+D:\Agnes\c#\Test\Second\bin\Debug\net5.0\Second.exe
+D:\Agnes\c#\Test\Second\bin\Debug\net5.0\Second.deps.json
+D:\Agnes\c#\Test\Second\bin\Debug\net5.0\Second.runtimeconfig.json
+D:\Agnes\c#\Test\Second\bin\Debug\net5.0\Second.runtimeconfig.dev.json
+D:\Agnes\c#\Test\Second\bin\Debug\net5.0\Second.dll
+D:\Agnes\c#\Test\Second\bin\Debug\net5.0\ref\Second.dll
+D:\Agnes\c#\Test\Second\bin\Debug\net5.0\Second.pdb
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.dll
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\ref\Second.dll
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.pdb
+D:\Agnes\c#\Test\Second\obj\Debug\net5.0\Second.genruntimeconfig.cache
