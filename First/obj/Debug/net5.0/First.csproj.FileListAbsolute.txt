@@ -1,0 +1,16 @@
+D:\Agnes\c#\Test\First\bin\Debug\net5.0\First.exe
+D:\Agnes\c#\Test\First\bin\Debug\net5.0\First.deps.json
+D:\Agnes\c#\Test\First\bin\Debug\net5.0\First.runtimeconfig.json
+D:\Agnes\c#\Test\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+D:\Agnes\c#\Test\First\bin\Debug\net5.0\First.dll
+D:\Agnes\c#\Test\First\bin\Debug\net5.0\ref\First.dll
+D:\Agnes\c#\Test\First\bin\Debug\net5.0\First.pdb
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.csprojAssemblyReference.cache
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.dll
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\ref\First.dll
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.pdb
+D:\Agnes\c#\Test\First\obj\Debug\net5.0\First.genruntimeconfig.cache
