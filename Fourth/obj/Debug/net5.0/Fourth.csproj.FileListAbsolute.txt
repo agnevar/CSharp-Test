@@ -1,0 +1,16 @@
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.csprojAssemblyReference.cache
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.AssemblyInfoInputs.cache
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.AssemblyInfo.cs
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.csproj.CoreCompileInputs.cache
+D:\Agnes\c#\Test\Fourth\bin\Debug\net5.0\Fourth.exe
+D:\Agnes\c#\Test\Fourth\bin\Debug\net5.0\Fourth.deps.json
+D:\Agnes\c#\Test\Fourth\bin\Debug\net5.0\Fourth.runtimeconfig.json
+D:\Agnes\c#\Test\Fourth\bin\Debug\net5.0\Fourth.runtimeconfig.dev.json
+D:\Agnes\c#\Test\Fourth\bin\Debug\net5.0\Fourth.dll
+D:\Agnes\c#\Test\Fourth\bin\Debug\net5.0\ref\Fourth.dll
+D:\Agnes\c#\Test\Fourth\bin\Debug\net5.0\Fourth.pdb
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.dll
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\ref\Fourth.dll
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.pdb
+D:\Agnes\c#\Test\Fourth\obj\Debug\net5.0\Fourth.genruntimeconfig.cache
