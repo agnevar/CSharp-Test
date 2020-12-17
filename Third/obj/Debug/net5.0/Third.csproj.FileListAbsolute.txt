@@ -1,0 +1,16 @@
+D:\Agnes\c#\Test\Third\bin\Debug\net5.0\Third.exe
+D:\Agnes\c#\Test\Third\bin\Debug\net5.0\Third.deps.json
+D:\Agnes\c#\Test\Third\bin\Debug\net5.0\Third.runtimeconfig.json
+D:\Agnes\c#\Test\Third\bin\Debug\net5.0\Third.runtimeconfig.dev.json
+D:\Agnes\c#\Test\Third\bin\Debug\net5.0\Third.dll
+D:\Agnes\c#\Test\Third\bin\Debug\net5.0\ref\Third.dll
+D:\Agnes\c#\Test\Third\bin\Debug\net5.0\Third.pdb
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.csprojAssemblyReference.cache
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.AssemblyInfoInputs.cache
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.AssemblyInfo.cs
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.csproj.CoreCompileInputs.cache
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.dll
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\ref\Third.dll
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.pdb
+D:\Agnes\c#\Test\Third\obj\Debug\net5.0\Third.genruntimeconfig.cache
